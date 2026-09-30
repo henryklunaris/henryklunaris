@@ -1,10 +1,9 @@
 ### Hey, I'm Henryk 👋
 
-I build voice AI agents and show you how on YouTube. Everything here is code from my videos, so you can clone it, run it and pull it apart.
+I build voice AI agents and other cool stuff, and teach you how. Everything here is code from my videos, so you can clone it, run it and pull it apart.
 
 📺 **YouTube:** [henryk-brzozowski.com/youtube](https://henryk-brzozowski.com/youtube)
 💼 **LinkedIn:** [in/henryk-brzozowski](https://henryk-brzozowski.com/linkedin)
-🌐 **Website:** [henryk-brzozowski.com](https://henryk-brzozowski.com)
 
 ---
 
